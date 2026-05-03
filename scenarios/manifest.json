@@ -1,0 +1,26 @@
+[
+  {
+    "id": "scenario_01_nominal_threat_route",
+    "label": "Nominal WEZ-Aware Mutual Support Route",
+    "summary": "Threat-aware planner preserves standoff and route quality while maintaining cooperative spacing and action feasibility.",
+    "mode": "nominal",
+    "input": "scenarios/scenario_01_nominal_threat_route.jsonl",
+    "output": "evidence/scenario_01_nominal_threat_route"
+  },
+  {
+    "id": "scenario_02_overaggressive_avoidance",
+    "label": "Overaggressive WEZ Skirt",
+    "summary": "The planner remains feasible but accepts elevated WEZ exposure and reduced route efficiency while mutual-support margins begin to erode.",
+    "mode": "degraded",
+    "input": "scenarios/scenario_02_overaggressive_avoidance.jsonl",
+    "output": "evidence/scenario_02_overaggressive_avoidance"
+  },
+  {
+    "id": "scenario_03_unsafe_wez_penetration",
+    "label": "Unsafe WEZ Penetration and Action Failure",
+    "summary": "Threat-aware autonomy collapses standoff, deconfliction, and action feasibility constraints, producing reject-grade mission behavior.",
+    "mode": "fault",
+    "input": "scenarios/scenario_03_unsafe_wez_penetration.jsonl",
+    "output": "evidence/scenario_03_unsafe_wez_penetration"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "topic_id": "DAF26BZ01-NV006",
+  "title": "Intelligent Threat Aware Autonomy",
+  "repo_name": "DAF26BZ01-NV006-Threat-Aware-Assurance",
+  "solicitation_track": "Phase I",
+  "solicitation_objective": "Advance one or more core ITA2 design challenges, especially WEZ modeling, WEZ avoidance, advanced weaponeering, and mutual-support behaviors for ACPs.",
+  "source_basis": "DAF 26.BZ Release 1 Phase I topic language, pp. 11-13.",
+  "opening_angle": "sanity checker for threat-aware autonomy; mission path/constraint assurance layer",
+  "delivery": "Runtime verification module that checks threat-aware pathing and mission autonomy outputs using a low-compute safety property framework and replay/evaluation tooling.",
+  "short_pitch": "RTVLAS adapted as a runtime assurance layer for threat-aware autonomy, checking whether generated paths and mission actions remain tactically sane in the presence of dynamic threats and deconfliction constraints.",
+  "viewer": false,
+  "phase2_transition": "Connect to a representative threat-aware planning stack, align with WEZ-aware simulations, and mature real-time interfaces to ACP mission computers."
+}

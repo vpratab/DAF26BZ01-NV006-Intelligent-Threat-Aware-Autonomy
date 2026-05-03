@@ -1,0 +1,18 @@
+{
+  "topic_id": "DAF26BZ01-NV006",
+  "title": "Intelligent Threat Aware Autonomy",
+  "scenario_name": "scenario_03_unsafe_wez_penetration",
+  "total_frames": 60,
+  "accept_frames": 20,
+  "flag_frames": 0,
+  "reject_frames": 40,
+  "min_trust_score": 0.0026999998,
+  "final_trust_score": 0.0026999998,
+  "first_reject_frame": 20,
+  "violations_by_property": {
+    "Mutual Support Deconfliction Margin": 40,
+    "Route Efficiency Floor": 40,
+    "Threat Standoff Margin": 40,
+    "WEZ Exposure Bound": 40
+  }
+}
