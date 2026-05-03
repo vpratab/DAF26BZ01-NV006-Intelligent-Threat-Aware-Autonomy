@@ -1,8 +1,8 @@
 # Evidence Scorecard Summary
 
 - Topic: `DAF26BZ01-NV006 Intelligent Threat Aware Autonomy`
-- Generated: `2026-05-03T04:54:05Z`
-- Git Head: `UNCOMMITTED_SCAFFOLD`
+- Generated: `2026-05-03T04:54:57Z`
+- Git Head: `6924e86c309ffba6d16384bbf13ed201659d8d9f`
 - Scenario Pass Rate: `3/3 (100.0%)`
 - Evidence Type: `deterministic synthetic autonomy traces for submission-stage feasibility review`
 
